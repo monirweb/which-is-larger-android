@@ -11,6 +11,8 @@ If the time finished, the animation `clock_scale.xml` would start.
 
 ![which-is-larger-android](https://raw.githubusercontent.com/monirweb/which-is-larger-android/master/screenshot.jpg "which number is larger?")
 
+Enjoy!:)
+
 
 ### 
 
