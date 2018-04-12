@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">کدوم بزرگتره؟!</string>
+    <string name="they_are_equal">مساوی اند!</string>
+    <string name="level_counter_text">%d / 20</string>
+    <string name="timer_counter_text">%d</string>
+    <string name="end_of_game_message">پایان</string>
+</resources>
